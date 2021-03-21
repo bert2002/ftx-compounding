@@ -1,0 +1,3 @@
+python-dotenv==0.15.0
+pushover==0.0.5
+
