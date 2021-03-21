@@ -1,7 +1,7 @@
-# FTX COMPUNDING
+# FTX COMPOUNDING
 
-- compound interest to lending
-- report send via PushOver
+- compound interest to active lending
+- send report via PushOver
 
 ## installation
 
@@ -20,7 +20,7 @@ FTX_API_KEY=
 FTX_SECRET=
 PUSHOVER_USER_KEY=
 PUSHOVER_APP_KEY=
-COINS=USD,USDT
+COINS=USD,USDT,FTT
 ```
 
 `COINS` are the tokens you want to compound.
